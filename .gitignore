@@ -1,0 +1,6 @@
+# Hexo 默认忽略项
+public/
+.deploy*/
+node_modules/
+*.log
+db.json
